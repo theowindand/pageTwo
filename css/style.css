@@ -1694,6 +1694,8 @@ footer, .footer {
 	.redevelopment-and-reconstruction {
 		background: url('../img/redevelopment-top-img.jpg');
 		background-repeat: no-repeat;
+		width: 100%;
+		background-size: cover;
 		height: auto;
 		min-height: 660px;
 	}
