@@ -1691,15 +1691,6 @@ footer, .footer {
 		margin-top: 50px;
 	}
 
-	.redevelopment-and-reconstruction {
-		background: url('../img/redevelopment-top-img.jpg') center;
-		background-repeat: no-repeat;
-		width: 100%;
-		background-size: cover;
-		height: 100vh;
-		min-height: auto;
-	}
-
 	.redevelopment-page h1 {
 		font-family: Montserrat;
 		font-style: normal;
@@ -1717,7 +1708,12 @@ footer, .footer {
 	}
 
 	.redevelopment-and-reconstruction {
-		background-position: 93% 50%;
+		background: url('../img/redevelopment-top-img.jpg');
+		background-repeat: no-repeat;
+		width: 100%;
+		background-size: cover;
+		height: auto;
+		min-height: 660px;
 	}
 
 	.completed-projects-mob h2 {
