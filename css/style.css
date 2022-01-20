@@ -1691,6 +1691,13 @@ footer, .footer {
 		margin-top: 50px;
 	}
 
+	.redevelopment-and-reconstruction {
+		background: url('../img/redevelopment-top-img.jpg');
+		background-repeat: no-repeat;
+		height: auto;
+		min-height: 660px;
+	}
+
 	.redevelopment-page h1 {
 		font-family: Montserrat;
 		font-style: normal;
@@ -1757,6 +1764,10 @@ footer, .footer {
 		font-weight: 800;
 		font-size: 23px;
 		margin-bottom: 45px;
+	}
+
+	.planning-stages-mob h2 span {
+		white-space: nowrap;
 	}
 
 	.customer-reviews h2 {
