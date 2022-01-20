@@ -1692,12 +1692,12 @@ footer, .footer {
 	}
 
 	.redevelopment-and-reconstruction {
-		background: url('../img/redevelopment-top-img.jpg');
+		background: url('../img/redevelopment-top-img.jpg') center;
 		background-repeat: no-repeat;
 		width: 100%;
 		background-size: cover;
-		height: auto;
-		min-height: 660px;
+		height: 100vh;
+		min-height: auto;
 	}
 
 	.redevelopment-page h1 {
